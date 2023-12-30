@@ -4,17 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # In this project I learned: 
-Install react-router-dom and add it to a React application.
-Enable routing by using RouterProvider and providing a router.
-Creating a router using createBrowserRouter().
-Use createRoutesFromElements() to configure a router.
-Use the Route component to add static and dynamic routes to an application.
-Use Link and NavLink components to add links to an application.
-Access the values of URL parameters using React Router’s useParams hook.
-Create nested routes using Route, Outlet, and relative paths.
-Declaratively redirect users by rendering React Router’s Navigate component
-Imperatively redirect users via the useNavigate hook.
-Access and set the value of query parameters using React Router’s useSearchParams hook.
+=============================
+* Install react-router-dom and add it to a React application.
+* Enable routing by using RouterProvider and providing a router.
+* Creating a router using createBrowserRouter().
+* Use createRoutesFromElements() to configure a router.
+* Use the Route component to add static and dynamic routes to an application.
+* Use Link and NavLink components to add links to an application.
+* Access the values of URL parameters using React Router’s useParams hook.
+* Create nested routes using Route, Outlet, and relative paths.
+* Declaratively redirect users by rendering React Router’s Navigate component
+* Imperatively redirect users via the useNavigate hook.
+* Access and set the value of query parameters using React Router’s useSearchParams hook.
 
 
 ## Available Scripts
